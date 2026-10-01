@@ -1,0 +1,10 @@
+{
+  "name": "Liquidaciones Contables",
+  "short_name": "Liquidaciones",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12161c",
+  "theme_color": "#1f6feb",
+  "icons": [{ "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
